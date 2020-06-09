@@ -1,0 +1,12 @@
+logs*
+logs/
+node_modules*
+node_modules/
+.idea*
+.idea
+.env
+config/env/development.js
+public/
+public*
+uploads/
+uploads*
